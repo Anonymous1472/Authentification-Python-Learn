@@ -1,5 +1,7 @@
-# Authentification-Python-Learn
-Petit script simple de comprehension codé en python pour vous donnez un leger apperçu ....
+# Authentification-Python-Learn (T-Force One)
+Petit script simple de comprehension codé en python pour les débutant
+voulant apprendre le python !
+
 
 INSTALLATION :
 
